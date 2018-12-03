@@ -6,4 +6,4 @@
 
 Thực hiện : [Lê Đức Thắng](https://github.com/daumarauxanh97/)
 
-[webpack](https://www.npmjs.com/package/image-webpack-loader/index)
+[webpack](https://daumarauxanh97.github.io/webpack/index)
